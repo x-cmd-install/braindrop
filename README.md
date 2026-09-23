@@ -4,7 +4,7 @@
 
 A terminal-based client for raindrop.io
 
-[![x-cmd/install — braindrop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/braindrop.svg)](https://x-cmd.com/install/braindrop)
+[![x-cmd/install — braindrop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/braindrop.svg)](https://x-cmd.com/install/braindrop)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **5,161** lines of code across **55** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-06-24 | 1 | 3 | 0 | 1 | 0 | 3 |
-| last180d | 2026-03-26 | 2 | 5 | 0 | 1 | 0 | 7 |
-| 360d | 2025-09-27 | 5 | 19 | 0 | 3 | 0 | 36 |
-| last720d | 2024-10-02 | 24 | 158 | 0 | 36 | 5 | 878 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 1 | 3 | 0 | 1 | 0 | 3 |
+| 90d | 2026-06-25 | 1 | 3 | 0 | 1 | 0 | 3 |
+| last180d | 2026-03-27 | 2 | 5 | 0 | 1 | 0 | 7 |
+| 360d | 2025-09-28 | 5 | 19 | 0 | 3 | 0 | 36 |
+| last720d | 2024-10-03 | 24 | 158 | 0 | 36 | 5 | 878 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for braindrop lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:49:52Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:07:40Z._
